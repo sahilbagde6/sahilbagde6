@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Sahil Bagde  
 
-<!--
-**sahilbagde6/sahilbagde6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 B.Tech CSE Student | Aspiring **Ethical Hacker**  
+- 🔐 Passionate about **Cyber Security & VAPT**  
+- 💻 Currently learning **Web Application Security, Bug Bounty & Penetration Testing**  
+- 🌱 Exploring **Python, Bash & Networking Tools**  
+- 🎯 Goal: To become a skilled **Cybersecurity Professional**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools  
+- **Languages:** Python, JavaScript (basic), Bash  
+- **Cyber Tools:** Nmap, Wireshark, Burp Suite, Metasploit, OWASP ZAP  
+- **Concepts:** Network Security, Web App Security, VAPT  
+
+---
+
+### 📂 Projects & Repositories  
+🔹 [Port Scanner in Python](#) – Simple network scanner script  
+🔹 [SQL Injection Demo](#) – Educational repo for SQLi testing  
+🔹 [Password Strength Checker](#) – Python-based tool  
+🔹 [Cybersecurity Notes](#) – My personal learning notes & cheatsheets  
+
+---
+
+### 📊 GitHub Stats  
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilbagde6&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbagde6&layout=compact&theme=tokyonight)  
+
+---
+
+### 🏆 Certifications
+- ✅ Ficklem Licensed Penetration Tester (Valid: Jan 2023 – Jan 2026)
+  
+
+### 🤝 Connect With Me  
+- 📫 Email: sahilbagde6@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sahil-bagde-4a1647216
+- 🌐 Portfolio: [Coming Soon]  
+
+---
+⭐️ From [sahilbagde6](https://github.com/sahilbagde6)
