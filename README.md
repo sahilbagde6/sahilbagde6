@@ -21,7 +21,7 @@
 
 ### 📂 Projects & Repositories  
 🔹 https://github.com/sahilbagde6/Port-Scanner.git – Simple network scanner script  
-🔹 [SQL Injection Demo](#) – Educational repo for SQLi testing  
+🔹 https://github.com/sahilbagde6/SQL-INJECTION-DEMO.git – Educational repo for SQLi testing  
 🔹 [Password Strength Checker](#) – Python-based tool  
 🔹 [Cybersecurity Notes](#) – My personal learning notes & cheatsheets  
 
