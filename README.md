@@ -20,7 +20,7 @@
 ---
 
 ### 📂 Projects & Repositories  
-🔹 [Port Scanner in Python](#) – Simple network scanner script  
+🔹 https://github.com/sahilbagde6/Port-Scanner.git – Simple network scanner script  
 🔹 [SQL Injection Demo](#) – Educational repo for SQLi testing  
 🔹 [Password Strength Checker](#) – Python-based tool  
 🔹 [Cybersecurity Notes](#) – My personal learning notes & cheatsheets  
