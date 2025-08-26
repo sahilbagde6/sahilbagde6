@@ -22,7 +22,7 @@
 ### 📂 Projects & Repositories  
 🔹 https://github.com/sahilbagde6/Port-Scanner.git – Simple network scanner script  
 🔹 https://github.com/sahilbagde6/SQL-INJECTION-DEMO.git – Educational repo for SQLi testing  
-🔹 [Password Strength Checker](#) – Python-based tool  
+🔹 https://github.com/sahilbagde6/Password-Strength-Checker-.git – Python-based tool  
 🔹 [Cybersecurity Notes](#) – My personal learning notes & cheatsheets  
 
 ---
