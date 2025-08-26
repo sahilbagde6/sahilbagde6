@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Sahil Bagde  
-
-### 🚀 About Me  
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilbagde6&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/sahilbagde6?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/sahilbagde6?label=Stars&style=social)
+
+### 🚀 About Me  
 - 🎓 B.Tech CSE Student | Aspiring **Ethical Hacker**  
 - 🔐 Passionate about **Cyber Security & VAPT**  
 - 💻 Currently learning **Web Application Security, Bug Bounty & Penetration Testing**  
