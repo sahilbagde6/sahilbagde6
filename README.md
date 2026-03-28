@@ -27,11 +27,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Sahil Bagde
-location: Maharashtra, India
-education: B.Tech in Computer Science Engineering
-role: Aspiring Ethical Hacker & Penetration Tester
-certification: Ficklem Licensed Penetration Tester
+Name: Sahil Bagde
+Location: Maharashtra, India
+Education: B.Tech in Computer Science Engineering
+Role: Aspiring Ethical Hacker & Penetration Tester
+Certification: Ficklem Licensed Penetration Tester
 ```
 
 - 🎓 **B.Tech CSE Student** | Aspiring **Ethical Hacker**
