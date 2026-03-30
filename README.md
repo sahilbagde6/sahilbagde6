@@ -22,7 +22,6 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Hacking GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN5MHBwc3RkN2Nkd2NnOGJ4Nm5kYXJjcnlmcDhyZGRxcm1uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">
 
 ## 🧑‍💻 About Me
 
